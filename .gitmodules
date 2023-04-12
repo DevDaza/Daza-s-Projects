@@ -1,0 +1,3 @@
+[submodule "WebApps"]
+	path = WebApps
+	url = https://github.com/DevDaza/WebApps
